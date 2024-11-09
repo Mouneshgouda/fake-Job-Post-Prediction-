@@ -1,4 +1,6 @@
-# fake-Job-Post-Prediction-   
+# fake-Job-Post-Prediction-
+
+- <img src="https://github.com/Mouneshgouda/fake-Job-Post-Prediction-/blob/main/Output/Screenshot%202024-11-09%20135120.png">
 
 <!--
  ### Introduction
